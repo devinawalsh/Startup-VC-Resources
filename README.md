@@ -1,24 +1,8 @@
-Resources for those learning about startups, VC, &amp; entrepreneurial strategy 
-
 # General Resources
 
 [Y Combinator Startup School Curriculum](https://www.startupschool.org/curriculum)
 
 [Y Combinator Startup Library](https://www.ycombinator.com/library)
-
-## Blogs
-@@ -30,27 +32,73 @@ Resources for those learning about startups, VC, &amp; entrepreneurial strategy
-## Porter's 5 Forces
-[How Competitive Forces Shape Strategy - HBR](https://hbr.org/1979/03/how-competitive-forces-shape-strategy) 
-
-# Structure of a VC Firm
-[VC Fund 101 - VCpreneur](https://vcpreneur.com/vc-funds-101-understanding-venture-fund-structures-team-compensation-fund-metrics-and-reporting-152b02e8504a)
-
-# Valuation Methodologies
-
-## Multiples
-## DCF
-## Comparables
 
 # Cap Table
 
@@ -35,7 +19,6 @@ Resources for those learning about startups, VC, &amp; entrepreneurial strategy
 [The Economics of Term Sheets - a16z](https://www.youtube.com/watch?v=fH3GuqXagXM)
 
 ## Deal Types
-- SAFE
 [The Three Things You Must Have in a Venture Investment](https://avc.com/2009/04/the-three-terms-you-must-have-in-a-venture-investmemt/)
 
 ## Deal Types & Conversion Math
